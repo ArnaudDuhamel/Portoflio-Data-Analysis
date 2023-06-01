@@ -36,3 +36,12 @@ https://restcountries.com/v3.1/all
 ```
 And then creates a Golang file containing a list data structure containing the country names.
 
+## financialAnalysis
+
+This part of the portfolio contains so far one project related to financial data: 
+
+### 1. Profitable companies
+
+The data related to the financial statements submitted to the American Securities and Exchange Commmission by publicly listed companies were manipulated with the R programming language to obtain a rough indicate of companies that had a profit margin of at least 20% or higher for the fiscal year 2022.
+
+This list is intended to narrow the list of companies to subject to a thorough financial analysis by a financial analyst.

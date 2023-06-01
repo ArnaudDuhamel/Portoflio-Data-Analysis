@@ -172,7 +172,7 @@ www.ntnu.edu/studies/courses/<strong>[course code]</strong>/2023#tab=omEmnet</di
 4. Kept the course codes
 5. Trimmed the coures codes
 6. Removed duplicates
-7. Used concat function to turn the course codes in the following format for scraping :
+7. Used concat function to turn the course codes in the following format to easily create a list data structure, then used for scraping :
 
   |#| Courses |
   |--| ------ |
@@ -181,7 +181,7 @@ www.ntnu.edu/studies/courses/<strong>[course code]</strong>/2023#tab=omEmnet</di
   | ... | ... |
   
 8. Scraped the relevant course information with the program in this repository
-9. In the course of scraping, the following correcitons to the data were made: 
+9. In the course of scraping, the following corrections to the data were made: 
 
 - course codes "MT4113" were replaced by "IMT4113"
 - course codes "IIK1001" were replaced by "IIKG1001"

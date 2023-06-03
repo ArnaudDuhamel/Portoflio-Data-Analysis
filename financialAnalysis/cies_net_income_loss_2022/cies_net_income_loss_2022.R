@@ -24,7 +24,7 @@ unique_adsh_raw <- unique(rotated_data$adsh)
 
 # We only keep entries for which the NetIncomeLoss are above 0
 # These are companies that made money in the year
-rotated_data <- subset(rotated_data, NetIncomeLoss >= 0)
+rotated_data <- subset(rotated_data, NetIncomeLoss > 0)
 
 # Obtain the total number of companies that made a profit in 2022
 unique_adsh_clean <- unique(rotated_data$adsh)

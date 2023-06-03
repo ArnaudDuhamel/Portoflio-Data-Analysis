@@ -80,7 +80,7 @@ dev.off()
   
 ## Data analysis
 
-- 5 290 companies having used the ```NetIncomeLoss``` were identified
+- 5 290 companies having used the ```NetIncomeLoss``` entry were identified
 - 3 021 of those had a net income
 - 2 269 of those had a net loss
 

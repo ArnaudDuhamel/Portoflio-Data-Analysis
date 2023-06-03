@@ -5,7 +5,7 @@ Identify American publicly traded companies that had a profit margin of at least
 
 ## Data used
 
-Financial Statement Data Sets for the first quarter of 2023 on the U.S. Securities Aand Exchange Commission's [website](https://www.sec.gov/dera/data/financial-statement-data-sets)
+Financial Statement Data Sets for the first quarter of 2023 on the U.S. Securities Aand Exchange Commission's [website](https://www.sec.gov/dera/data/financial-statement-data-sets).
 
 The dataset contains multiple text files that have been converted to the csv format. 
 
@@ -19,7 +19,7 @@ Two values have been collected from the financial data file:
 - Revenues
 - ProfitLoss
 
-The ```Revenues``` entry is only for revenues coming fromm the operation of the company. This leaves out extraordinary revenues such as revenues from asset liquidation. That's why some companies in the cleaned file have no revenues, but still have profits.
+The ```Revenues``` entry is only for revenues coming from the operation of the company. This leaves out extraordinary revenues such as revenues from asset liquidation. That's why some companies in the cleaned file have no revenues, but still have profits.
 
 The ```ProfitLoss``` entry is not the exclusive entry designating profits, and is not used for every companies. Other entries could be used such as the ```NetIncomeLoss``` entry.
 

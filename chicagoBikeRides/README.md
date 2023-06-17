@@ -12,6 +12,9 @@ The [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) for 202
 
 1. 12 folders were downloaded for every month of 2022. The csv files were extracted from their folder and the folders were deleted with the following python script: 
 
+<details>
+  <summary>file extraction script</summary>
+
 ```python
 
 import os
@@ -47,7 +50,12 @@ for folder_name in os.listdir(parent_dir):
         
 ```
 
+</details>
+    
 2. The headers of each csv file were extracted to an excel file with the following python script to make sure that they each had the same headers and especially the same header length:
+
+<details>
+  <summary>headers extraction script</summary>
 
 ```python
 import csv
@@ -82,3 +90,6 @@ with open(headers_file, "w", newline="") as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerows(headers)
 ```
+
+</details>
+    

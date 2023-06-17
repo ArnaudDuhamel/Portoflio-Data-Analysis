@@ -146,4 +146,5 @@ write.csv(merged_data, "merged_data.csv", row.names = FALSE)
 ```
   
 </details>
-  
+
+The dataset contained a total of 5 667 717 entries rows.

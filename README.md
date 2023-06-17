@@ -38,7 +38,7 @@ And then creates a Golang file containing a list data structure containing the c
 
 ## financialAnalysis
 
-This part of the portfolio contains so far one project related to financial data: 
+This part of the portfolio contains projects related to financial data: 
 
 ### 1. Profitable companies
 

@@ -148,3 +148,40 @@ write.csv(merged_data, "merged_data.csv", row.names = FALSE)
 </details>
 
 The dataset contained a total of 5 667 717 rows.
+
+4. Riders can start and end rides at two different types of locations: at stations where bikes a locked into a dock, and designated areas where bikes can be taken and left without being docked. The positions of the designated areas are not provided and since it is an area, the coordinates of where the bikes are either left or taken varies. This brought challenges and, as a result, only rides that started and ended at a station were used in the project. 
+
+This translated into removing every row that contained null attributes.
+
+This filtering was done throught the following R script:
+
+<details>
+  <summary>null filtering script</summary>
+
+```r
+# load the full dataset into a dataframe
+data <- read.csv("merged_data.csv")
+
+# show the head of the dataframe to verify that the read was successful
+head(data)
+
+# remove entries that have null values
+# this function turned out to be insufficient and did not remove
+# all of the rows with empty attribute values
+data_without_na <- na.omit(data)
+
+
+# removing rows where either the start or end station value was
+# an empty string completely eliminated rows with null values
+data_without_na <- data_without_na[data_without_na$end_station_name != "", ]
+data_without_na <- data_without_na[data_without_na$start_station_name != "", ]
+
+# print the number of rows of the datafram for information
+print(nrow(data_without_na))
+
+# write the filtered and cleaned dataframe to a csv file
+write.csv(data_without_na, "data_without_nulls.csv", row.names = FALSE)
+
+```
+
+</details>

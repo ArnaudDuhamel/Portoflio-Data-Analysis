@@ -93,3 +93,14 @@ with open(headers_file, "w", newline="") as csv_file:
 
 </details>
     
+3. Once it was confirmed that the layout was the same for every file, the 12 files were merged into one single file with the following R script:
+
+<details>
+  <summary>file merging script</summary>
+  
+```r
+
+```
+  
+</details>
+  

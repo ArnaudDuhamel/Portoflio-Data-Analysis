@@ -185,3 +185,5 @@ write.csv(data_without_na, "data_without_nulls.csv", row.names = FALSE)
 ```
 
 </details>
+
+This reduced the dataset to 4 369 360 entries.

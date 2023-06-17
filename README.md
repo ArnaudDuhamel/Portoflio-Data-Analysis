@@ -15,7 +15,7 @@ Courses had to:
 
 The study level of each course also had to be collected to verify that the study level of the course matched the study level of the student.
 
-A Golang script was used to scrape the course data, collected data were cleaned in a csv format, imported in a SQL database and queried for all the courses that did not respect the requirements.
+A Golang script was used to scrape the course data, the collected data was cleaned in a csv format, imported in a SQL database and queried for all the courses that did not respect the requirements.
 
 ## cc3tocc2map
 

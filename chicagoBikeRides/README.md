@@ -191,7 +191,7 @@ This reduced the dataset to 4 369 360 rows.
 5. The dataset was then divided between rides in which the user is a member and rides in which the user is not a member. It was done with the following R script:
 
 <details>
-  <summary>null filtering script</summary>
+  <summary>separating customer type script</summary>
   
 ```r
   

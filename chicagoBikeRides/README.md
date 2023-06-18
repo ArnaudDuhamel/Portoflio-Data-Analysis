@@ -149,7 +149,7 @@ write.csv(merged_data, "merged_data.csv", row.names = FALSE)
 
 The dataset contained a total of 5 667 717 rows.
 
-4. Riders can start and end rides at two different types of locations: at stations where bikes a locked into a dock, and designated areas where bikes can be taken and left without being docked. The positions of the designated areas are not provided and since it is an area, the coordinates of where the bikes are either left or taken varies. This brought challenges and, as a result, only rides that started and ended at a station were used in the project. 
+4. Riders can start and end rides at two different types of locations: at stations where bikes are locked into a dock, and designated areas where bikes can be taken and left without being docked. The positions of the designated areas are not provided and since it is an area, the coordinates of where the bikes are either left or taken varies. This brought challenges and, as a result, only rides that started and ended at a station were used in the project. 
 
 This translated into removing every row that contained null attributes.
 

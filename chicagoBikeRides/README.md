@@ -186,4 +186,27 @@ write.csv(data_without_na, "data_without_nulls.csv", row.names = FALSE)
 
 </details>
 
-This reduced the dataset to 4 369 360 entries.
+This reduced the dataset to 4 369 360 rows.
+
+5. The dataset was then divided between rides in which the user is a member and rides in which the user is not a member. It was done with the following R script:
+
+<details>
+  <summary>null filtering script</summary>
+  
+```r
+  
+library(dplyr)
+
+data <- read.csv("data_without_nulls.csv")
+
+casual_rows <- data[data$member_casual == "casual", ]
+
+write.csv(casual_rows, "data_casual.csv", row.names = FALSE)
+
+member_rows <- data[data$member_casual == "member", ]
+
+write.csv(member_rows, "data_member.csv", row.names = FALSE)
+               
+```
+  
+</details>

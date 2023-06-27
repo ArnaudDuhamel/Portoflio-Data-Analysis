@@ -256,6 +256,6 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
   <summary>map (done in QGIS)</summary>
 
-  <img src="casual_top_10_start_end_stations.png" width="600" height="400">
+  <img src="casual_top_10_start_end_stations.png" width="600" height="600">
 
   </details>

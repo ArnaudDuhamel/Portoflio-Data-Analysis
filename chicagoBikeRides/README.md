@@ -335,7 +335,14 @@ However, the distinction between members and non members appear to indicate that
   | Shedd Aquarium | Shedd Aquarium | 2479 |
   | DuSable Lake Shore Dr & North Blvd | DuSable Lake Shore Dr & North Blvd | 2439 |
 
-</details>
+  </details>
+
+  <details>
+    <summary>map</summary>
+
+  <img src="member_top_10_start_end_stations.png" width="600" height="500">
+
+  </details>
 
 - for members
 
@@ -354,5 +361,12 @@ However, the distinction between members and non members appear to indicate that
   | Morgan St & Polk St | Loomis St & Lexington St | 2876 |
   | University Ave & 57th St | Kimbark Ave & 53rd St | 2267 |
   | Loomis St & Lexington St | Halsted St & Polk St | 2091 |
+
+  </details>
+
+  <details>
+    <summary>map</summary>
+
+  <img src="member_top_10_start_end_stations.png" width="600" height="500">
 
   </details>

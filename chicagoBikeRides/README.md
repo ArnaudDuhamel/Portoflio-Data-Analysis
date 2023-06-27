@@ -369,8 +369,6 @@ However, the distinction between members and non members appear to indicate that
   <details>
     <summary>map (done in QGIS with TravelTime plugin)</summary>
 
-  start stations in blue & end stations in orange
-
   <img src="member_top_10_itineraries.png" width="600" height="500">
 
   </details>

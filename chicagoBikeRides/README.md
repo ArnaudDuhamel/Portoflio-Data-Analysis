@@ -319,4 +319,40 @@ However, the distinction between members and non members appear to indicate that
 
 - for non-members
 
+  <details>
+    <summary>itineraries' list</summary>
+
+  | start_station_name | end_station_name | ride_count |
+  | ----- | ----- | ----- |
+  | Streeter Dr & Grand Ave | Streeter Dr & Grand Ave | 10632 |
+  | DuSable Lake Shore Dr & Monroe St | DuSable Lake Shore Dr & Monroe St | 6615 |
+  | DuSable Lake Shore Dr & Monroe St | Streeter Dr & Grand Ave | 5100 |
+  | Michigan Ave & Oak St | Michigan Ave & Oak St | 4612 |
+  | Millennium Park | Millennium Park | 4061 |
+  | Montrose Harbor | Montrose Harbor | 2939 |
+  | Streeter Dr & Grand Ave | DuSable Lake Shore Dr & Monroe St | 2854 |
+  | Streeter Dr & Grand Ave | Millennium Park | 2735 |
+  | Shedd Aquarium | Shedd Aquarium | 2479 |
+  | DuSable Lake Shore Dr & North Blvd | DuSable Lake Shore Dr & North Blvd | 2439 |
+
+</details>
+
 - for members
+
+<details>
+    <summary>itineraries' list</summary>
+
+| start_station_name | end_station_name | count |
+| ----- | ----- | ----- |
+| Ellis Ave & 60th St | University Ave & 57th St | 5848 |
+| University Ave & 57th St | Ellis Ave & 60th St | 5544 |
+| Ellis Ave & 60th St | Ellis Ave & 55th St | 5278 |
+| Ellis Ave & 55th St | Ellis Ave & 60th St | 4745 |
+| State St & 33rd St | Calumet Ave & 33rd St | 3268 |
+| Calumet Ave & 33rd St | State St & 33rd St | 3215 |
+| Loomis St & Lexington St | Morgan St & Polk St | 2891 |
+| Morgan St & Polk St | Loomis St & Lexington St | 2876 |
+| University Ave & 57th St | Kimbark Ave & 53rd St | 2267 |
+| Loomis St & Lexington St | Halsted St & Polk St | 2091 |
+
+</details>

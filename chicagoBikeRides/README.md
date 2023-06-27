@@ -2,7 +2,7 @@
 
 ## Task
 
-Analyze the ride data to come up with insights and recommendations for a marketing campaign aimed at converting non member riders to members.
+Analyze the ride data to come up with insights and recommendations for a marketing campaign aimed at converting non-member riders to members.
 
 ## Data used
 

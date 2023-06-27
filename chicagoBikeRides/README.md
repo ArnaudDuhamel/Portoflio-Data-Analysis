@@ -265,7 +265,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
     <summary>start stations</summary>
 
-  | station_name | start_lat | start_lng | count |
+  | station_name | start_lat | start_lng | ride_count |
   | ----- | ----- | ----- | ----- |
   | Kingsbury St & Kinzie St | 41.88918 | -87.63851 | 23523 |
   | Clark St & Elm St | 41.90297 | -87.63128 | 20581 |
@@ -283,7 +283,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
     <summary>end stations</summary>
 
-  | station_name | start_lat | start_lng | count |
+  | station_name | start_lat | start_lng | ride_count |
   | ----- | ----- | ----- | ----- |
   | Kingsbury St & Kinzie St | 41.88918 | -87.63851 | 23213 |
   | Clark St & Elm St | 41.90297 | -87.63128 | 20902 |

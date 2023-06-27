@@ -259,3 +259,23 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <img src="casual_top_10_start_end_stations.png" width="600" height="500">
 
   </details>
+
+- for members
+
+  <details>
+  <summary>start stations</summary>
+
+  | station_name | start_lat | start_lng | count |
+  | ----- | ----- | ----- | ----- | ----- |
+  | Kingsbury St & Kinzie St | 41.88918 | -87.63851 | 23523 |
+  | Clark St & Elm St | 41.90297 | -87.63128 | 20581 |
+  | Wells St & Concord Ln | 41.91213 | -87.63466 | 19674 |
+  | Clinton St & Washington Blvd | 41.88338 | -87.64117 | 18828 |
+  | Loomis St & Lexington St | 41.87219 | -87.6615 | 18252 |
+  | Clinton St & Madison St | 41.88223 | -87.64106 | 18007 |
+  | University Ave & 57th St | 41.79148 | -87.59986 | 17581 |
+  | Ellis Ave & 60th St | 41.7851 | -87.60107 | 17504 |
+  | Wells St & Elm St | 41.90311 | -87.63475 | 17496 |
+  | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 16208 |
+
+  </details>

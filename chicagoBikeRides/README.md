@@ -338,9 +338,9 @@ However, the distinction between members and non members appear to indicate that
   </details>
 
   <details>
-    <summary>map</summary>
+    <summary>map (done in QGIS with TravelTime plugin)</summary>
 
-  <img src="member_top_10_start_end_stations.png" width="600" height="500">
+  <img src="casual_top_10_itineraries.png" width="600" height="500">
 
   </details>
 
@@ -365,8 +365,8 @@ However, the distinction between members and non members appear to indicate that
   </details>
 
   <details>
-    <summary>map</summary>
+    <summary>map (done in QGIS with TravelTime plugin)</summary>
 
-  <img src="member_top_10_start_end_stations.png" width="600" height="500">
+  <img src="member_top_10_itineraries.png" width="600" height="500">
 
   </details>

@@ -381,7 +381,7 @@ For members, the fact that a start and end station combination is also present i
 
 ## Final Discussion
 
-Upon reflection, the business task only required to analyze the data related to non-members because the goal was to enthize non-members to become members. Therefore, only insights related to non-members were needed.
+Upon further reflection, the business task only required to analyze the data related to non-members because the goal was to enthize non-members to become members. It was all only about non-members.
 
 The analysis performed suggests that there is a group of non-users interested in sightseeing and tourism.
 

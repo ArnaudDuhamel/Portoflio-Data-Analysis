@@ -256,6 +256,8 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
     <summary>map (done in QGIS)</summary>
 
+  start stations in blue & end stations in orange
+
   <img src="casual_top_10_start_end_stations.png" width="600" height="500">
 
   </details>
@@ -300,7 +302,15 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 
   <details>
     <summary>map (done in QGIS)</summary>
-
+    
+    start stations in blue & end stations in orange
+  
     <img src="member_top_10_start_end_stations.png" width="600" height="500">
 
   </details>
+
+### Discussion
+
+The overall count of rides for each station of the top 10, and the whole top 10, represent a very small fraction of the total number of rides. It therefore does not provide a very reliable picture of the overall use of the service, by both categories.
+
+However, the distinction between members and non members appear to indicate that non-members may be more interested in tourism and sightseeing as stations are located closer to the water and in park areas. 

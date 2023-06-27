@@ -314,3 +314,9 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 The overall count of rides for each station of the top 10, and the whole top 10, represent a very small fraction of the total number of rides. It therefore does not provide a very reliable picture of the overall use of the service, by both categories.
 
 However, the distinction between members and non members appear to indicate that non-members may be more interested in tourism and sightseeing as stations are located closer to the water and in park areas. 
+
+### 10 most popular itineraries
+
+- for non-members
+
+- for members

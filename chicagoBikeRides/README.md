@@ -372,3 +372,21 @@ However, the distinction between members and non members appear to indicate that
   <img src="member_top_10_itineraries.png" width="600" height="500">
 
   </details>
+
+### Discussion
+
+For non-members, the fact that the start and end station is often the same indicates a desire to "roam around", which itself points towards sightseeing and tourism. This raises doubt that the two itineraries displayed on the map, showing the most direct path between the start and end station, are representative of the real itineraray of riders.
+
+For members, the fact that a start and end station combination is also present inverted in the list, in many cases, shows a commutting pattern. This indicates that the most direct path between the start and end station is likely to be representative of the real itinerary of riders.
+
+## Final Discussion
+
+Upon reflection, the business task only required to analyze the data related to non-members because the goal was to enthize non-members to become members. Therefore, only insights related to non-members were needed.
+
+The analysis performed suggests that there is a group of non-users interested in sightseeing and tourism.
+
+## Recommendation
+
+Offer membership benefits related to sightseeing and tourism.
+
+This would be especially relevant if the company had bike networks in many cities in the US and/or arround the world.

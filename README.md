@@ -4,7 +4,7 @@ This repository contains all my data analysis projects.
 
 Here is a brief description of each project: 
 
-## courseInfoCollector (real world task)
+## Course info collector (real world task)
 
 In the course of working part time for the international office of the Norwegian University of Science and Technology in Gjøvik, I was tasked to gather information about courses selected by incoming exchange students. 
 
@@ -17,7 +17,13 @@ The study level of each course also had to be collected to verify that the study
 
 A Golang script was used to scrape the course data, the collected data was cleaned in a csv format, imported in a SQL database and queried for all the courses that did not respect the requirements.
 
-## cc3tocc2map
+## Chicago bike rides
+
+The task was to analyze the data of the bike sharing company Divvy Bikes for 2022 to gather insights for a marketing campaigned aimed at converting non-member users to members.
+
+The data appeared to reveal a group of non-members interested in sightseeing and tourism. It was therefore recommended to offer membership benefits related to sightseeing and tourism.
+
+## cc3 to cc2map
 
 This project shows how I used the data from this website:
 
@@ -36,7 +42,7 @@ https://restcountries.com/v3.1/all
 ```
 And then creates a Golang file containing a list data structure containing the country names.
 
-## financialAnalysis
+## Financial analysis
 
 This part of the portfolio contains projects related to financial data: 
 

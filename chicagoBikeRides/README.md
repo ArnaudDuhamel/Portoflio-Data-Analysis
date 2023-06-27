@@ -320,7 +320,7 @@ However, the distinction between members and non members appear to indicate that
 - for non-members
 
   <details>
-    <summary>itineraries' list</summary>
+    <summary>list of itineraries</summary>
 
   | start_station_name | end_station_name | ride_count |
   | ----- | ----- | ----- |
@@ -339,20 +339,20 @@ However, the distinction between members and non members appear to indicate that
 
 - for members
 
-<details>
-    <summary>itineraries' list</summary>
+  <details>
+    <summary>list of itineraries</summary>
 
-| start_station_name | end_station_name | count |
-| ----- | ----- | ----- |
-| Ellis Ave & 60th St | University Ave & 57th St | 5848 |
-| University Ave & 57th St | Ellis Ave & 60th St | 5544 |
-| Ellis Ave & 60th St | Ellis Ave & 55th St | 5278 |
-| Ellis Ave & 55th St | Ellis Ave & 60th St | 4745 |
-| State St & 33rd St | Calumet Ave & 33rd St | 3268 |
-| Calumet Ave & 33rd St | State St & 33rd St | 3215 |
-| Loomis St & Lexington St | Morgan St & Polk St | 2891 |
-| Morgan St & Polk St | Loomis St & Lexington St | 2876 |
-| University Ave & 57th St | Kimbark Ave & 53rd St | 2267 |
-| Loomis St & Lexington St | Halsted St & Polk St | 2091 |
+  | start_station_name | end_station_name | ride_count |
+  | ----- | ----- | ----- |
+  | Ellis Ave & 60th St | University Ave & 57th St | 5848 |
+  | University Ave & 57th St | Ellis Ave & 60th St | 5544 |
+  | Ellis Ave & 60th St | Ellis Ave & 55th St | 5278 |
+  | Ellis Ave & 55th St | Ellis Ave & 60th St | 4745 |
+  | State St & 33rd St | Calumet Ave & 33rd St | 3268 |
+  | Calumet Ave & 33rd St | State St & 33rd St | 3215 |
+  | Loomis St & Lexington St | Morgan St & Polk St | 2891 |
+  | Morgan St & Polk St | Loomis St & Lexington St | 2876 |
+  | University Ave & 57th St | Kimbark Ave & 53rd St | 2267 |
+  | Loomis St & Lexington St | Halsted St & Polk St | 2091 |
 
-</details>
+  </details>

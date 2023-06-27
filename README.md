@@ -23,7 +23,7 @@ The task was to analyze the data of the bike sharing company Divvy Bikes for 202
 
 The data appeared to reveal a group of non-members interested in sightseeing and tourism. It was therefore recommended to offer membership benefits related to sightseeing and tourism.
 
-## cc3 to cc2map
+## CC3 to CC2 map
 
 This project shows how I used the data from this website:
 

@@ -253,3 +253,9 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 
   </details>
 
+  <details>
+  <summary>map (done in QGIS)</summary>
+
+  
+
+  </details>

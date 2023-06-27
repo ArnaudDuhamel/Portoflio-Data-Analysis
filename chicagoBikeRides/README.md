@@ -302,7 +302,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 
   <details>
     <summary>map (done in QGIS)</summary>
-    
+    <br>
     start stations in blue & end stations in orange
   
     <img src="member_top_10_start_end_stations.png" width="600" height="500">

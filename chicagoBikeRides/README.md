@@ -218,7 +218,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 - for non members
   
   <details>
-  <summary>start stations</summary>
+    <summary>start stations</summary>
 
   | station_name | start_lat | start_lng | ride_count |
   | ----- | ----- | ----- | ----- |
@@ -236,7 +236,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   </details>
 
   <details>
-  <summary>end stations</summary>
+    <summary>end stations</summary>
      
   | station_name | start_lat | start_lng | ride_count |
   | ----- | ----- | ----- | ----- |
@@ -254,7 +254,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   </details>
 
   <details>
-  <summary>map (done in QGIS)</summary>
+    <summary>map (done in QGIS)</summary>
 
   <img src="casual_top_10_start_end_stations.png" width="600" height="500">
 
@@ -263,10 +263,10 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 - for members
 
   <details>
-  <summary>start stations</summary>
+    <summary>start stations</summary>
 
   | station_name | start_lat | start_lng | count |
-  | ----- | ----- | ----- | ----- | ----- |
+  | ----- | ----- | ----- | ----- |
   | Kingsbury St & Kinzie St | 41.88918 | -87.63851 | 23523 |
   | Clark St & Elm St | 41.90297 | -87.63128 | 20581 |
   | Wells St & Concord Ln | 41.91213 | -87.63466 | 19674 |
@@ -277,5 +277,30 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   | Ellis Ave & 60th St | 41.7851 | -87.60107 | 17504 |
   | Wells St & Elm St | 41.90311 | -87.63475 | 17496 |
   | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 16208 |
+
+  </details>
+
+  <details>
+    <summary>end stations</summary>
+
+  | station_name | start_lat | start_lng | count |
+  | ----- | ----- | ----- | ----- |
+  | Kingsbury St & Kinzie St | 41.88918 | -87.63851 | 23213 |
+  | Clark St & Elm St | 41.90297 | -87.63128 | 20902 |
+  | Wells St & Concord Ln | 41.91213 | -87.63466 | 20272 |
+  | Clinton St & Washington Blvd | 41.88338 | -87.64117 | 19496 |
+  | Clinton St & Madison St | 41.88223 | -87.64106 | 18520 |
+  | University Ave & 57th St | 41.79148 | -87.59986 | 18439 |
+  | Loomis St & Lexington St | 41.87219 | -87.6615 | 18065 |
+  | Wells St & Elm St | 41.90311 | -87.63475 | 17466 |
+  | Ellis Ave & 60th St | 41.7851 | -87.60107 | 17319 |
+  | Broadway & Barry Ave | 41.93758 | -87.6441 | 16506 |
+
+  </details>
+
+  <details>
+    <summary>map (done in QGIS)</summary>
+
+    <img src="member_top_10_start_end_stations.png" width="600" height="500">
 
   </details>

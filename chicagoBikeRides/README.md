@@ -220,7 +220,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
   <summary>start stations</summary>
 
-  | station_name | start_lat | start_lng | count |
+  | station_name | start_lat | start_lng | ride_count |
   | ----- | ----- | ----- | ----- |
   | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 55061 |
   | DuSable Lake Shore Dr & Monroe St | 41.88096 | -87.61674 | 30262 |
@@ -238,7 +238,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
   <summary>end stations</summary>
      
-  | station_name | start_lat | start_lng | count |
+  | station_name | start_lat | start_lng | ride_count |
   | ----- | ----- | ----- | ----- |
   | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 57810 |
   | DuSable Lake Shore Dr & Monroe St | 41.88096 | -87.61674 | 28543 |
@@ -256,6 +256,6 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
   <details>
   <summary>map (done in QGIS)</summary>
 
-  
+  <img src="casual_top_10_start_end_stations.png" width="800" height="800">
 
   </details>

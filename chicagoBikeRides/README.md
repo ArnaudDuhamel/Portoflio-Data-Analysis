@@ -216,36 +216,40 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 ### 10 most popular start and end stations
 
 - for non members
-  - start stations
+  
+  <details>
+  <summary>start stations</summary>
 
-  |station_id | station_name | start_lat | start_lng | count |
-  | ----- | ----- | ----- | ----- | ----- |
-  | 13022 | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 55061 |
-  | 13300 | DuSable Lake Shore Dr & Monroe St | 41.88096 | -87.61674 | 30262 |
-  | 13008 | Millennium Park | 41.88103 | -87.62408 | 23951 |
-  | 13042 | Michigan Ave & Oak St | 41.90087 | -87.62369 | 23761 |
-  | LF-005 | DuSable Lake Shore Dr & North Blvd | 41.91176 | -87.62676 | 22157 |
-  | 15544 | Shedd Aquarium | 41.86725 | -87.61538 | 19421 |
-  | TA1308000001 | Theater on the Lake | 41.92628 | -87.63083 | 17333 |
-  | TA1308000050 | Wells St & Concord Ln | 41.91213 | -87.63466 | 14834 |
-  | KA1503000064 | Dusable Harbor | 41.88698 | -87.61281 | 13271 |
-  | 13146 | Clark St & Armitage Ave | 41.91831 | -87.63628 | 12779 |
+  | station_name | start_lat | start_lng | count |
+  | ----- | ----- | ----- | ----- |
+  | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 55061 |
+  | DuSable Lake Shore Dr & Monroe St | 41.88096 | -87.61674 | 30262 |
+  | Millennium Park | 41.88103 | -87.62408 | 23951 |
+  | Michigan Ave & Oak St | 41.90087 | -87.62369 | 23761 |
+  | DuSable Lake Shore Dr & North Blvd | 41.91176 | -87.62676 | 22157 |
+  | Shedd Aquarium | 41.86725 | -87.61538 | 19421 |
+  | Theater on the Lake | 41.92628 | -87.63083 | 17333 |
+  | Wells St & Concord Ln | 41.91213 | -87.63466 | 14834 |
+  | Dusable Harbor | 41.88698 | -87.61281 | 13271 |
+  | Clark St & Armitage Ave | 41.91831 | -87.63628 | 12779 |
 
-  - end stations
+  </details>
+
+  <details>
+  <summary>end stations</summary>
      
-  |station_id | station_name | start_lat | start_lng | count |
-  | ----- | ----- | ----- | ----- | ----- |
-  | 13022 | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 57810 |
-  | 13300 | DuSable Lake Shore Dr & Monroe St | 41.88096 | -87.61674 | 28543 |
-  | 13008 | Millennium Park | 41.88103 | -87.62408 | 25676 |
-  | 13042 | Michigan Ave & Oak St | 41.90087 | -87.62369 | 25373 |
-  | LF-005 | DuSable Lake Shore Dr & North Blvd | 41.91176 | -87.62676 | 25305 |
-  | TA1308000001 | Theater on the Lake | 41.92628 | -87.63083 | 18649 |
-  | 15544 | Shedd Aquarium | 41.86725 | -87.61538 | 18047 |
-  | TA1308000050 | Wells St & Concord Ln | 41.91213 | -87.63466 | 14416 |
-  | 13146 | Clark St & Armitage Ave | 41.91831 | -87.63628 | 13030 |
-  | 13179 | Clark St & Lincoln Ave | 41.91569 | -87.6346 | 12852 |
+  | station_name | start_lat | start_lng | count |
+  | ----- | ----- | ----- | ----- |
+  | Streeter Dr & Grand Ave | 41.89228 | -87.61204 | 57810 |
+  | DuSable Lake Shore Dr & Monroe St | 41.88096 | -87.61674 | 28543 |
+  | Millennium Park | 41.88103 | -87.62408 | 25676 |
+  | Michigan Ave & Oak St | 41.90087 | -87.62369 | 25373 |
+  | DuSable Lake Shore Dr & North Blvd | 41.91176 | -87.62676 | 25305 |
+  | Theater on the Lake | 41.92628 | -87.63083 | 18649 |
+  | Shedd Aquarium | 41.86725 | -87.61538 | 18047 |
+  | Wells St & Concord Ln | 41.91213 | -87.63466 | 14416 |
+  | Clark St & Armitage Ave | 41.91831 | -87.63628 | 13030 |
+  | Clark St & Lincoln Ave | 41.91569 | -87.6346 | 12852 |
 
-
-
+  </details>
 

@@ -215,7 +215,7 @@ write.csv(member_rows, "data_member.csv", row.names = FALSE)
 
 ### 10 most popular start and end stations
 
-- for non members
+- for non-members
   
   <details>
     <summary>start stations</summary>

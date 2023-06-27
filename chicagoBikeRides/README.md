@@ -389,4 +389,4 @@ The analysis performed suggests that there is a group of non-users interested in
 
 Offer membership benefits related to sightseeing and tourism.
 
-This would be especially relevant if the company had bike networks in many cities in the US and/or arround the world.
+This would be especially relevant if the company had bike networks in many cities in the US and/or around the world.

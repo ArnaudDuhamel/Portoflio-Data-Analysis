@@ -10,7 +10,7 @@ At the end of the course, the reference group has to write a report that is to b
 
 ## Task
 
-Make the point that too little resources are invested into the course "Graphics Programming" compared to its difficulty level
+In the reference group report, make the point that too little resources are invested into the course "Graphics Programming" compared to its difficulty level.
 
 ## Data used
 
@@ -36,7 +36,7 @@ This does not included students that dropped out of the course without doing the
 
 To determine the number of students that failed, I added students that failed the mandatory assignments with those that failed the exam and/or the graded assignments.
 
-The two following tables have been included in the report: 
+The two following tables have been included in the referense group report: 
 
 <details>
   <summary>simplified table</summary>
@@ -80,3 +80,25 @@ The two following tables have been included in the report:
 
 ### Teaching time against the failing rate for a sample of courses
 
+I defined teaching time as the weekly hours of lectures and labs.
+
+I presented those two tables in the reference group report:
+
+<details>
+  <summary>simplified table</summary>
+
+| Course   | weekly teaching time | fail_rate |
+| ----- | ----- | ----- |
+| Mathematics for Computer Science | 8 | 31% |
+| Software Development | 6 | 0% |
+| Cyber security and computer networks | 6 | 4% |
+| Graphics Programming | 3 | 52% |
+
+</details>
+
+<details>
+  <summary>complete table</summary>
+
+
+
+</details>

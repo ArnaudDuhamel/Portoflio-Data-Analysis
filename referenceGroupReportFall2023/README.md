@@ -43,22 +43,37 @@ The two following tables have been included in the report:
   
 | Course Name | fail_rate |
 | ----- | ----- |
-| Graphics Programming | 52 |
-| Web Technologies | 33 |
-| Object-oriented Programming | 32 |
-| Mathematics for Computer Science | 31 |
-| Operating Systems | 28 |
-| Algorithmic Methods | 27 |
-| Mathematics for Programming | 26 |
-| Fundamental Programming | 19 |
-| Introduction to User-Centered Design | 7 |
-| Examen philosophicum for Science and Technology | 6 |
-| Cyber security and computer networks | 4 |
-| Software Development | 0 |
+| Graphics Programming | 52% |
+| Web Technologies | 33% |
+| Object-oriented Programming | 32% |
+| Mathematics for Computer Science | 31% |
+| Operating Systems | 28% |
+| Algorithmic Methods | 27% |
+| Mathematics for Programming | 26% |
+| Fundamental Programming | 19% |
+| Introduction to User-Centered Design | 7% |
+| Examen philosophicum for Science and Technology | 6% |
+| Cyber security and computer networks | 4% |
+| Software Development | 0% |
 
 </details>
 
 <details>
-  <summary>scomplete table</summary>
+  <summary>complete table</summary>
+
+| Year | Semester | Course code | Course Name | num_students | num_fail | fail_rate |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 2022 | AUTUMN | PROG2002 | Graphics Programming | 65 | 34 | 52% |
+| 2022 | AUTUMN | PROG2053 | Web Technologies | 146 | 48 | 33% |
+| 2022 | SPRING | PROG1003 | Object-oriented Programming | 180 | 58 | 32% |
+| 2021 | AUTUMN | BMA1010 | Mathematics for Computer Science | 144 | 45 | 31% |
+| 2022 | AUTUMN | IDATG2202 | Operating Systems | 156 | 44 | 28% |
+| 2022 | AUTUMN | IDATG2102 | Algorithmic Methods | 124 | 33 | 27% |
+| 2022 | SPRING | BMA1020 | Mathematics for Programming | 74 | 19 | 26% |
+| 2021 | AUTUMN | PROG1001 | Fundamental Programming | 151 | 29 | 19% |
+| 2021 | AUTUMN | IDG1362 | Introduction to User-Centered Design | 206 | 14 | 7% |
+| 2022 | SPRING | EXPH0300 | Examen philosophicum for Science and Technology | 987 | 64 | 6% |
+| 2021 | AUTUMN | IIKG1001 | Cyber security and computer networks | 101 | 4 | 4% |
+| 2022 | SPRING | PROG1004 | Software Development | 134 | 0 | 0% |
 
 </details>

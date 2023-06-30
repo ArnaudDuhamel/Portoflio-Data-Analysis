@@ -77,3 +77,6 @@ The two following tables have been included in the report:
 | 2022 | SPRING | PROG1004 | Software Development | 134 | 0 | 0% |
 
 </details>
+
+### Teaching time against the failing rate for a sample of courses
+

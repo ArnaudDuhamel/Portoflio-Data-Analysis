@@ -38,3 +38,27 @@ To determine the number of students that failed, I added students that failed th
 
 The two following tables have been included in the report: 
 
+<details>
+  <summary>simplified table</summary>
+  
+| Course Name | fail_rate |
+| ----- | ----- |
+| Graphics Programming | 52 |
+| Web Technologies | 33 |
+| Object-oriented Programming | 32 |
+| Mathematics for Computer Science | 31 |
+| Operating Systems | 28 |
+| Algorithmic Methods | 27 |
+| Mathematics for Programming | 26 |
+| Fundamental Programming | 19 |
+| Introduction to User-Centered Design | 7 |
+| Examen philosophicum for Science and Technology | 6 |
+| Cyber security and computer networks | 4 |
+| Software Development | 0 |
+
+</details>
+
+<details>
+  <summary>scomplete table</summary>
+
+</details>

@@ -105,6 +105,5 @@ I presented those two tables in the reference group report:
 | Software Development | 4 | 2 | 6 | 0% |
 | Cyber security and computer networks | 2 | 4 | 6 | 4% |
 | Graphics Programming | 1 | 2 | 3 | 52% |
-![image](https://github.com/ArnaudDuhamel/PortoflioDataAnalysis/assets/113102976/564707ad-aa9b-468d-8190-cf5d5849e78b)
 
 </details>

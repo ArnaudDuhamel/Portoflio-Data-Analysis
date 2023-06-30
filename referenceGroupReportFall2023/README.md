@@ -107,3 +107,8 @@ I presented those two tables in the reference group report:
 | Graphics Programming | 1 | 2 | 3 | 52% |
 
 </details>
+
+## Recommendation
+
+The data above was used to recommend stakeholders at NTNU to increase the lab time for the course to at least 5 hours 
+per week and the lecture time to at least 3 hours per week.

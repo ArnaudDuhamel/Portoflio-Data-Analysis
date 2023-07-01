@@ -112,3 +112,7 @@ I presented those two tables in the reference group report:
 
 The data analysis above was used to recommend stakeholders at NTNU to increase the lab time for the course to at least 5 hours 
 per week and the lecture time to at least 3 hours per week.
+
+## Outcome
+
+I learned that, for the next edition of the course, 4 teaching assistants will be employed.

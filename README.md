@@ -55,3 +55,15 @@ This list is intended to narrow the list of companies to subject to a thorough f
 ### 2. Amount of profitable companies
 
 The data related to the financial statements submitted to the American Securities and Exchange Commmission by publicly listed companies were manipulated with the R programming language to obtain the number of companies that made a profit in 2022 and those that had a loss.
+
+## Reference group report of the fall 2022 edition of the Computer Graphics course at NTNU
+
+As part of the quality assurance system at NTNU, students are invited to form a reference group in every course to provide feedback to the professor and to write a final report at the end of every semester.
+
+- For the fall 2022 edition of the Computer Graphics course, the failing rate of the course has been compared to that of every other course that I had so far in the programming bachelor. The failing rate of this course was significantly higher then any other course.
+
+- At the same time, tt was the course that had the least amount of weekly teaching hours, by a significant margin, at 3 hours per week.
+
+Those two points were demonstrated through the use of data. 
+
+As a result, the fall 2023 edition of the course will increase the weekly teaching time to 8 hours, among other changes.

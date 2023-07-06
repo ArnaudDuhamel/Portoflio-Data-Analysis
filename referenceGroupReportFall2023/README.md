@@ -115,4 +115,9 @@ per week and the lecture time to at least 3 hours per week.
 
 ## Outcome
 
-I learned that, for the next edition of the course, 4 teaching assistants will be employed.
+For the next edition of the course:
+
+- 4 teaching assistants will be present during the labs
+- The total teaching time increased to 8 hours per week
+- There will be a professor and a reasercher teaching
+- The labs from 2021 will be provided to students as examples

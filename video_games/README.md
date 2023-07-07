@@ -155,3 +155,7 @@ COMMIT;
 ```
 
 </details>
+
+## Outcome
+
+The resulting SQL file can now be imported as is in a MySQL server and analysis can be made.

@@ -143,7 +143,7 @@ CREATE TABLE `video_games` (
 
 INSERT INTO `video_games` (`Name`, `Platform`, `Year_of_Release`, `Genre`, `Publisher`, `NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`, `Critic_Score`, `Critic_Count`, `User_Score`, `User_Count`, `Developer`, `Rating`) VALUES
 ("Wii Sports", "Wii", 2006, "Sports", "Nintendo", 41.36, 28.96, 3.77, 8.45, 82.53, 76, 51, 8, 322, "Nintendo", "E"),
-("Super Mario Bros.", "NES", 1985, "Platform", "Nintendo", 29.08, 3.58, 6.81, 0.77, 40.24, NULL, NULL, NULL, NULL, NULL, NULL)
+("Super Mario Bros.", "NES", 1985, "Platform", "Nintendo", 29.08, 3.58, 6.81, 0.77, 40.24, NULL, NULL, NULL, NULL, NULL, NULL),
 ...
 
 COMMIT;

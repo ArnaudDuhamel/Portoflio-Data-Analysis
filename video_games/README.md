@@ -140,11 +140,10 @@ CREATE TABLE `video_games` (
   `developer` varchar(255) DEFAULT NULL,
   `rating` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-```
 
 INSERT INTO `video_games` (`Name`, `Platform`, `Year_of_Release`, `Genre`, `Publisher`, `NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`, `Critic_Score`, `Critic_Count`, `User_Score`, `User_Count`, `Developer`, `Rating`) VALUES
 ("Wii Sports", "Wii", 2006, "Sports", "Nintendo", 41.36, 28.96, 3.77, 8.45, 82.53, 76, 51, 8, 322, "Nintendo", "E"),
-("Super Mario Bros.", "NES", 1985, "Platform", "Nintendo", 29.08, 3.58, 6.81, 0.77, 40.24, NULL, NULL, NULL, NULL, NULL, NULL),
+("Super Mario Bros.", "NES", 1985, "Platform", "Nintendo", 29.08, 3.58, 6.81, 0.77, 40.24, NULL, NULL, NULL, NULL, NULL, NULL)
 ...
 
 COMMIT;
@@ -152,5 +151,7 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+```
 
 </details>
